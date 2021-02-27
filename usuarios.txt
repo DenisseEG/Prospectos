@@ -1,0 +1,11 @@
+Administrador
+Correo: denisse_enriquez@outlook.com
+Contraseña: Prueba
+
+Promotor
+Correo: promotor@gmail.com
+Contraseña: Promotor
+
+Evaluación
+Correo: evaluacion@gmail.com
+Contraseña: Evaluacion
