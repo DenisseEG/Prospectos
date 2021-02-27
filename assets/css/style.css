@@ -1,0 +1,16 @@
+.app-sidebar__user-avatar{
+    width: 48px;
+    padding: 6px;
+}
+
+.invalid-msg{
+    font-size: 12px;
+    color: #dc3545;
+    display: none;
+}
+
+.count-clients{
+    font-weight: bold;
+    font-size: 16px;
+}
+

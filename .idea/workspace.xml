@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45ced101-83c4-4775-91f6-e4388adcc2a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1olSjlTJn25T5S37CH0Qn6GZVW2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vali-admin-master" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45ced101-83c4-4775-91f6-e4388adcc2a9" name="Default Changelist" comment="" />
+      <created>1613859822274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613859822274</updated>
+      <workItem from="1613859824178" duration="1975000" />
+      <workItem from="1613944142708" duration="22664000" />
+      <workItem from="1614017975256" duration="22816000" />
+      <workItem from="1614105486082" duration="44144000" />
+      <workItem from="1614189307395" duration="39406000" />
+      <workItem from="1614272160349" duration="55537000" />
+      <workItem from="1614352565533" duration="28882000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="336" y="361" key="#SQL_Dialects" timestamp="1613948154125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="336" y="361" key="#SQL_Dialects/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1613948154125" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613948272813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1613948272813" />
+    <state x="716" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613958910207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1613958910207" />
+    <state x="637" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1614272489725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1614272489725" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1614352901899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1614352901899" />
+    <state x="787" y="243" key="NewPhpClassDialog" timestamp="1614357580298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="787" y="243" key="NewPhpClassDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1614357580298" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1614352772755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1614352772755" />
+    <state x="561" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1614223512286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="561" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1614223512286" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1614378035708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1614378035708" />
+  </component>
+</project>
