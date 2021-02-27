@@ -27,7 +27,11 @@ class ProspectosController extends Controller
 
     public function showAll()
     {
-        $data = $this->model->getClients();
+        $usuario_id = intval($_SESSION['id_user']);
+        $rol_id = intval($_SESSION['user_data']['rol_id']);
+
+        $data = $this->model->getClients($usuario_id, $rol_id);
+
         foreach($data as &$datum){
             $approve_disabled = '';
             $reject_disabled = '';
@@ -106,7 +110,7 @@ class ProspectosController extends Controller
 
     public function create()
     {
-        $usuario_id = intval($_SESSION['user_data']['id_usuario']);
+        $usuario_id = intval($_SESSION['id_user']);
         $nombre = $_POST['nombre'];
         $apll_paterno = $_POST['apll_paterno'];
         $apll_materno = $_POST['apll_materno'];

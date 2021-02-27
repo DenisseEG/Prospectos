@@ -16,15 +16,24 @@ class Prospectos extends Mysql
     public $strRfc;
     public $intEstatusProspecto;
     public $strObservaciones;
+    public $intRolId;
 
     public function __construct()
     {
         parent::__construct();
     }
 
-    public function getClients()
+    public function getClients(int $usuario_id, int $rol_id)
     {
-        $query = 'SELECT * FROM prospecto WHERE estatus != 0';
+        $this->intUsuarioId = $usuario_id;
+        $this->intRolId = $rol_id;
+
+        if($this->intRolId == 2){
+            $query = "SELECT * FROM prospecto WHERE estatus != 0 AND usuario_id = '{$this->intUsuarioId}'";
+        }else{
+            $query = "SELECT * FROM prospecto WHERE estatus != 0";
+        }
+
         return $this->selectAll($query);
     }
 
